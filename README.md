@@ -9,7 +9,7 @@
 
 **毕业设计所有选题地址： https://github.com/Good-Night-Unicorn?tab=repositories**
 
-## 基于Java+Springboot+Vue+uniapp的医院挂号小程序系统(源码+数据库)097
+## 基于SSM+Vue的游泳馆管理系统(源码+数据库)097
 
 ## 一、系统介绍
 1.项目由小程序与后台网站组成
