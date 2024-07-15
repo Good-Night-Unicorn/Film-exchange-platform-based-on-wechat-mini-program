@@ -9,7 +9,7 @@
 
 **毕业设计所有选题地址： https://github.com/Good-Night-Unicorn?tab=repositories**
 
-## 基于SSM+Vue的电影交流平台小程序(源码+数据库)
+## 基于SSM+Vue的电影交流平台小程序+LW(源码+数据库)
 
 ## 一、系统介绍
 1.项目由小程序与后台网站组成
