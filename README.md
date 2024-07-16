@@ -24,31 +24,15 @@
 9.后端技术：Java、mybatis、Spring
 10.运行环境：win10/win11、jdk1.8
 11.数据库：mysql5.7/8.0或以上版本
-## 二、所用技术
-
-后端技术栈：
-
-- SpringMvc
-- mybatis
-- mysql
-- shiro
 
 
-前端技术栈：
-- Vue
-- layui
-- axios
-- bootstrap
-- uniapp
-- 小程序
-
-## 三、环境介绍
+## 二、环境介绍
 
 基础环境 :IDEA/eclipse, JDK 1.8, Mysql5.7及以上, Maven3.6, HBuilder
 
 所有项目以及源代码本人均调试运行无问题 可支持远程调试运行
 
-## 四、页面演示
+## 三、页面演示
 ![图片](https://github.com/user-attachments/assets/e403b726-5e36-499f-8f0b-fdc6a287bf8a)
 ![图片](https://github.com/user-attachments/assets/83934082-bba9-4d1d-9a44-e9f68175c6ff)
 ![图片](https://github.com/user-attachments/assets/374b01e1-094b-4260-a99c-10549c51f0bf)
