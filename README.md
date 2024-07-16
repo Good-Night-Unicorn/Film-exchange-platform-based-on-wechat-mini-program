@@ -61,21 +61,3 @@
 ![图片](https://github.com/user-attachments/assets/4b96c3f5-30c2-4098-817f-7d959f69c649)
 ![图片](https://github.com/user-attachments/assets/0f5ea182-a09c-47a5-b5d9-9bf6f4cb458a)
 ![图片](https://github.com/user-attachments/assets/47174e3e-a377-4744-972b-69468334d9bd)
-
-## 五、浏览地址
-
-后台访问地址：http://localhost:8097
-- 管理员账号/密码：sysadmin/123456
-- 超级管理员账号/密码：admin/admin123
-
-app端用户名密码：
-lilong/123456
-
-## 六、部署教程
-
-1. 使用Navicat或者其它工具，在mysql中创建对应名称的数据库，并执行项目的sql文件；
-2. 使用IDEA/Eclipse导入Hospital-register项目，若为maven项目请选择maven，等待依赖下载完成；
-3. 进入src/main/resources修改application.yml里面的profile文件路径配置和application-druid.yml的数据库配置
-4. 启动项目后端项目
-5. hbuilder打开Hospital-register-wx项目，修改manifest.json的微信小程序配置，点击运行到小程序模拟器
-6. 执行运行后会跳转到微信小程序开发工具
